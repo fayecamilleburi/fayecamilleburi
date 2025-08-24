@@ -19,12 +19,12 @@ I am a passionate coder with a knack for database management. I enjoy solving co
 - [Optimizing AI Potential: Balancing Prompt Engineering](https://drive.google.com/file/d/1gDHPfM1oxUauhC8hIJcT006xLq7rygis/view?usp=drive_link)
 - [Guide to Fullstack Development - From Zero to Hero](https://drive.google.com/file/d/1ju7zEP032n2mgUzkrHTqp9GDZr0Y-MtC/view?usp=drive_link)
 - [Challenges and Realities After Graduation](https://drive.google.com/file/d/1riLLEsFC9zkBO9OLlExjT2bMmpz0fcPX/view?usp=drive_link)
-- [CISCO Introduction to Data Science](https://www.credly.com/badges/1836c615-c0a8-4ff8-ad75-3b7043c8fafd/public_url)
+- [Introduction to Data Science](https://www.credly.com/badges/1836c615-c0a8-4ff8-ad75-3b7043c8fafd/public_url)
 
 ## Skill Sets
-- **Programming:** Java, SQL
+- **Programming:** Java, SQL, Python, HTML, CSS, PHP, TypeScript, JavaScript, Shell
 - **Databases:** IBM DB2 Cloud, Supabase
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Tools:** Lucidchart, Visual Studio Code, Google Workspace, Git, Microsoft Office, Tableau Public, Jupyter Notebook, Pentaho, Figma, Canva
 
 ## Reach Me
 - **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/faye-camille-buri)
