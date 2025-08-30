@@ -33,7 +33,7 @@
 - **Programming Languages:** Java, SQL, Python, HTML, CSS, PHP, TypeScript, JavaScript, Shell
 - **Databases:** IBM DB2 Cloud, Supabase
 - **Frameworks & Tools:** Lucidchart, Bootstrap, Node.js, React, Tableau Public, Jupyter Notebook, Pentaho, Figma, Canva Education
-- **DevTools**: Visual Studio Code, Google Workspace, Git, Microsoft Office
+- **DevTools**: Visual Studio Code, Google Workspace, Git, Microsoft Office, Laragon, Vercel
 
 <p>
   <img src="https://img.icons8.com/?size=48&id=Pd2x9GWu9ovX&format=png" alt="java"/>
@@ -59,6 +59,7 @@
   <img src="https://img.icons8.com/color/48/google-logo.png" alt="google-ws"/>
   <img src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="ms-office"/>
+  <img src="https://img.icons8.com/ios-filled/48/vercel.png" alt="vercel"/>
 </p>
 
 ## 📫 Reach Me  
