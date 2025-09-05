@@ -15,19 +15,20 @@
 
 ## 📜 Badges & Certifications  
 
-| Category | Certification | Issued By | Month Issued |
-|----------|------------------|:--------------:|:---------:|
-| ☁️ **Cloud & Data** | [Introduction to Data Science](https://www.credly.com/badges/1836c615-c0a8-4ff8-ad75-3b7043c8fafd/public_url) | Cisco Networking Academy | Aug 2025 |
-| 🏢 **Career Development** | [Data Driven Facilities Management: The Future of Smart Spaces](https://drive.google.com/file/d/1ADRSgZ4ltqMuemKhKw5-aXqrUeg_GM4c/view?usp=drive_link) | NEU CICS | Apr 2025 |
-| 🏢 **Career Development** | [The Art of Effective Communication: Becoming a Leader People Trust](https://drive.google.com/file/d/1xppAOfYHtnIVXKG4vqB3rhbk93COu-RO/view?usp=drive_link) | NEU CICS | Apr 2025 |
-| 👨‍💻 **Software Development** | [Agile Testing in Action - A Beginner's Guide for Future Testers](https://drive.google.com/file/d/1qzWqnbQNRy5kUDmcYWEEGVMgEAqoyau6/view?usp=drive_link) | NEU CICS | Apr 2025 |
-| 🤖 **AI & Emerging Tech** | [Optimizing AI Potential: Balancing Prompt Engineering](https://drive.google.com/file/d/1gDHPfM1oxUauhC8hIJcT006xLq7rygis/view?usp=drive_link) | NEU CICS | Apr 2025 |
-| 👨‍💻 **Software Development** | [Guide to Fullstack Development - From Zero to Hero](https://drive.google.com/file/d/1ju7zEP032n2mgUzkrHTqp9GDZr0Y-MtC/view?usp=drive_link) | NEU CICS | Apr 2025 |
-| 🏢 **Career Development** | [Challenges and Realities After Graduation](https://drive.google.com/file/d/1riLLEsFC9zkBO9OLlExjT2bMmpz0fcPX/view?usp=drive_link) | NEU CICS | Apr 2025 |
-| ☁️ **Cloud & Data** | [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0C2E029971722295EC7A7FDD96413A383E269A4EBEE3F55477A54E80127DBC29) | Oracle | Nov 2023 |
-| ☁️ **Cloud & Data** | [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=40452075988E0D55C9A6330C095E9815EF9BD5DAFB9F9BCC19ACBD434988CB73) | Oracle | Nov 2023 |
-| ☁️ **Cloud & Data** | [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=982C2731A66F5EF6E18EB79F4F9288CC3D82AE83871FE039B1BB9ADD78B883DB) | Oracle | Nov 2023 |
-| ☁️ **Cloud & Data** | [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/2ad6e3efe1ec4b7887f369bdd3925f8a) | Cognitive Class (IBM) | Oct 2023 |
+| Certification | Issued By | Month Issued |
+|------------------|:--------------:|:---------:|
+| [Data Analytics Essentials](https://www.credly.com/badges/a78ba740-7e6e-4d10-a9f6-6e691e7447e2/public_url) | Cisco Networking Academy | Sept 2025|
+| [Introduction to Data Science](https://www.credly.com/badges/1836c615-c0a8-4ff8-ad75-3b7043c8fafd/public_url) | Cisco Networking Academy | Aug 2025 |
+| [Data Driven Facilities Management: The Future of Smart Spaces](https://drive.google.com/file/d/1ADRSgZ4ltqMuemKhKw5-aXqrUeg_GM4c/view?usp=drive_link) | NEU CICS | Apr 2025 |
+| [The Art of Effective Communication: Becoming a Leader People Trust](https://drive.google.com/file/d/1xppAOfYHtnIVXKG4vqB3rhbk93COu-RO/view?usp=drive_link) | NEU CICS | Apr 2025 |
+| [Agile Testing in Action - A Beginner's Guide for Future Testers](https://drive.google.com/file/d/1qzWqnbQNRy5kUDmcYWEEGVMgEAqoyau6/view?usp=drive_link) | NEU CICS | Apr 2025 |
+| [Optimizing AI Potential: Balancing Prompt Engineering](https://drive.google.com/file/d/1gDHPfM1oxUauhC8hIJcT006xLq7rygis/view?usp=drive_link) | NEU CICS | Apr 2025 |
+| [Guide to Fullstack Development - From Zero to Hero](https://drive.google.com/file/d/1ju7zEP032n2mgUzkrHTqp9GDZr0Y-MtC/view?usp=drive_link) | NEU CICS | Apr 2025 |
+| [Challenges and Realities After Graduation](https://drive.google.com/file/d/1riLLEsFC9zkBO9OLlExjT2bMmpz0fcPX/view?usp=drive_link) | NEU CICS | Apr 2025 |
+| [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0C2E029971722295EC7A7FDD96413A383E269A4EBEE3F55477A54E80127DBC29) | Oracle | Nov 2023 |
+| [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=40452075988E0D55C9A6330C095E9815EF9BD5DAFB9F9BCC19ACBD434988CB73) | Oracle | Nov 2023 |
+| [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=982C2731A66F5EF6E18EB79F4F9288CC3D82AE83871FE039B1BB9ADD78B883DB) | Oracle | Nov 2023 |
+| [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/2ad6e3efe1ec4b7887f369bdd3925f8a) | Cognitive Class (IBM) | Oct 2023 |
 
 ## 🛠️ Skill Sets
 - **Programming Languages:** Java, SQL, Python, HTML, CSS, PHP, TypeScript, JavaScript, Shell
