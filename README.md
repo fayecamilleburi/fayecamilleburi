@@ -12,6 +12,9 @@
 ## 📓 Education
 - **Bachelor of Science in Computer Science**
   - New Era University (2022-Present)
+ 
+- **Science, Technology, Engineering, and Mathematics (STEM) Graduate**
+  - St. Scholastica's College Manila (2020-2022)
 
 ## 📜 Badges & Certifications  
 
