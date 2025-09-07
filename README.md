@@ -20,7 +20,8 @@
 
 | Certification | Issued By | Month Issued |
 |------------------|:--------------:|:---------:|
-| [Data Analytics Essentials](https://www.credly.com/badges/a78ba740-7e6e-4d10-a9f6-6e691e7447e2/public_url) | Cisco Networking Academy | Sept 2025|
+| [GitHub Foundations Part 1 of 2](https://learn.microsoft.com/api/achievements/share/en-us/FayeCamilleBuri-5081/PLMJEMK4?sharingId=C379DAE77832B8C3) | Microsoft Learning | Sept 2025 |
+| [Data Analytics Essentials](https://www.credly.com/badges/a78ba740-7e6e-4d10-a9f6-6e691e7447e2/public_url) | Cisco Networking Academy | Sept 2025 |
 | [Introduction to Data Science](https://www.credly.com/badges/1836c615-c0a8-4ff8-ad75-3b7043c8fafd/public_url) | Cisco Networking Academy | Aug 2025 |
 | [Data Driven Facilities Management: The Future of Smart Spaces](https://drive.google.com/file/d/1ADRSgZ4ltqMuemKhKw5-aXqrUeg_GM4c/view?usp=drive_link) | NEU CICS | Apr 2025 |
 | [The Art of Effective Communication: Becoming a Leader People Trust](https://drive.google.com/file/d/1xppAOfYHtnIVXKG4vqB3rhbk93COu-RO/view?usp=drive_link) | NEU CICS | Apr 2025 |
