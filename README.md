@@ -28,6 +28,7 @@
 
 | Certification | Issued By | Month Issued |
 |------------------|:--------------:|:---------:|
+| [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/7938828cd918ea9ee85431c0d7e49970) | Coursera | Sept 2025 |
 | [Data Analytics Essentials](https://www.netacad.com/certificates?issuanceId=e9071704-de4f-4c77-b385-dea3b05cf44f) | Cisco Networking Academy | Sept 2025 |
 | [Introduction to Data Science](https://www.netacad.com/certificates?issuanceId=c270561b-6735-49c1-8a4a-f08db8f3ab06) | Cisco Networking Academy | Aug 2025 |
 | [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0C2E029971722295EC7A7FDD96413A383E269A4EBEE3F55477A54E80127DBC29) | Oracle | Nov 2023 |
