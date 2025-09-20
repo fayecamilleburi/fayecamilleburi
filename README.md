@@ -28,6 +28,7 @@
 
 | Certification | Issued By | Month Issued |
 |------------------|:--------------:|:---------:|
+| [Analyze Website Visitors with Google Analytics Segments](https://coursera.org/share/a6b45ce766f5f74bd14fae2d7639fcd9) | Coursera | Sept 2025 |
 | [Getting Started in Google Analytics](https://coursera.org/share/6c33bbefc269caec3c0816d1d236f643) | Coursera | Sept 2025 |
 | [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/7938828cd918ea9ee85431c0d7e49970) | Coursera | Sept 2025 |
 | [Data Analytics Essentials](https://www.netacad.com/certificates?issuanceId=e9071704-de4f-4c77-b385-dea3b05cf44f) | Cisco Networking Academy | Sept 2025 |
